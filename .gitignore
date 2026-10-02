@@ -1,8 +1,4 @@
 node_modules
 .next
-.env
-.env.local
-.env.production
-prisma/*.db
-npm-debug.log*
-.DS_Store
+.env*
+*.log
